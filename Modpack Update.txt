@@ -1,0 +1,40 @@
+
+CHANGES:
+
+* This is an update to the unreleased GitHub fan version
+* Amadron tablet removed
+* OpenComputers transistors take less plastic to produce
+* Added missing dyed wool / painter recipes using lime paint
+* IE cables were adjusted to reduce false burns, and to ease HV transmission
+* Some lime paints can now be produced in the IHL chemical reactor
+* TechGuns will no longer mess with the FOV when sprinting
+* Some dense plates can now be automated
+* Creeper Acid re-added
+* Obsidian can be made in the AR Chemical Reactor
+* Electric trains de-nerfed
+* 2x2 Half Framed Drawers will now consume saw durability and not the saw
+* OpenComputers updated, Computronics added
+* Metal casings can be made in the Metal Press
+* Some guide documentation has been updated and expanded
+* TFC Support Beams can now be produced in the Carpenter
+* TFC Lapis no longer voided by IE Crusher
+* Nuclear Control mod volumes fixed, new howler alarm sounds added
+* All Chisel mod blocks should now be attainable in survival
+* Project:Red insulated cables now require rubber, but use less red alloy
+* Changed recipe for Project:Red insulated cables to improve dye efficiency
+* Railcraft Tank valves and gauges can now be produced in the PneumaticCraft assembly station at a higher input efficiency
+* Chunk loading was tweaked for large bases and train networks
+* Quests updated to include hint quests for new and existing content, and to not overlap with UI elements
+* TechGuns oil clusters buffed to make automated/permanent oil wells slightly more practical
+* FoamFix 1.7.10 has been added, with Log4J exploit mitigations
+* Colourized some petrochem products to ease identification
+* TechGuns' volumes adjusted to be in line with other game audio
+
+KNOWN ISSUES:
+
+* TFC Anvils can passively consume up to 1 ms/tick per anvil on their own, if placed in the world
+* AR multiblocks do not always update properly without a block update to their controller block.  For example, filling the solids input and then the fluid input on a chemical reactor will not start the reaction.
+* RailCraft Locomotive Detectors do not support any dyes other than the vanilla dyes
+* Electric locomotives cannot be dyed
+* Project Red IC Gates are buggy.  They cannot self-start after a chunk loads (if they have timers or oscillators internally), and any timers or state cells which share exact timings will operate incorrectly
+* Trying to create an IC gate via the creative menu will crash the game.  Craft it using the survival recipe: 8 circuit plates surrounding the fabricated IC
