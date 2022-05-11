@@ -1259,6 +1259,12 @@
             "registerOrder": 210,
             "textureName": "foodpasteslab",
             "name": "foodpasteslab"
+        },
+		{
+            "maxStackSize": 64,
+            "registerOrder": 211,
+            "textureName": "mold_casing",
+            "name": "mold_casing"
         }
     ]
 }

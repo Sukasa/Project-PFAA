@@ -34,7 +34,8 @@
             "density": 1,
             "viscosity": 1000,
             "isGas": true,
-            "flowLength": 1
+            "flowLength": 1,
+			"color": "902020"
         },
         {
             "name":"benzene",
@@ -74,7 +75,7 @@
         },
         {
             "name":"butane",
-            "textureName": "tower",
+            "textureName": "butane",
             "temperature": 200,
             "density": 2,
             "viscosity": 1000,
@@ -83,7 +84,7 @@
         },
         {
             "name":"butanemix",
-            "textureName": "tower",
+            "textureName": "steam_mix",
             "temperature": 200,
             "density": 3,
             "viscosity": 1000,
@@ -92,7 +93,7 @@
         },
         {
             "name":"butene",
-            "textureName": "tower",
+            "textureName": "butene",
             "temperature": 200,
             "density": 1,
             "viscosity": 1000,
@@ -155,7 +156,7 @@
         },
         {
             "name":"ethane",
-            "textureName": "tower",
+            "textureName": "ethane",
             "temperature": 200,
             "density": 1,
             "viscosity": 1000,
@@ -164,7 +165,7 @@
         },
         {
             "name":"ethanemix",
-            "textureName": "tower",
+            "textureName": "steam_mix",
             "temperature": 200,
             "density": 1,
             "viscosity": 1000,
@@ -173,7 +174,7 @@
         },
         {
             "name":"ethene",
-            "textureName": "tower",
+            "textureName": "ethene",
             "temperature": 200,
             "density": 1,
             "viscosity": 1000,
@@ -218,7 +219,7 @@
         },
         {
             "name":"hotbutene",
-            "textureName": "tower",
+            "textureName": "hotbutene",
             "temperature": 1500,
             "density": 620,
             "viscosity": 1000,
@@ -236,7 +237,7 @@
         },
         {
             "name":"hotethene",
-            "textureName": "tower",
+            "textureName": "hotethene",
             "temperature": 1500,
             "density": 1,
             "viscosity": 1000,
@@ -245,7 +246,7 @@
         },
         {
             "name":"hotlng",
-            "textureName": "tower",
+            "textureName": "hotlng",
             "temperature": 1500,
             "density": 2,
             "viscosity": 1000,
@@ -254,7 +255,7 @@
         },
         {
             "name":"hotlpg",
-            "textureName": "tower",
+            "textureName": "hotlpg",
             "temperature": 1500,
             "density": 3,
             "viscosity": 1000,
@@ -272,7 +273,7 @@
         },
         {
             "name":"hotpropene",
-            "textureName": "tower",
+            "textureName": "hotpropene",
             "temperature": 1500,
             "density": 2,
             "viscosity": 1000,
@@ -335,7 +336,7 @@
         },
         {
             "name":"methane",
-            "textureName": "tower",
+            "textureName": "methane",
             "temperature": 300,
             "density": 1,
             "viscosity": 1000,
@@ -344,7 +345,7 @@
         },
         {
             "name":"methanemix",
-            "textureName": "tower",
+            "textureName": "steam_mix",
             "temperature": 300,
             "density": 1,
             "viscosity": 1000,
@@ -353,7 +354,7 @@
         },
         {
             "name":"methanenatural",
-            "textureName": "tower",
+            "textureName": "methanenatural",
             "temperature": 300,
             "density": 1,
             "viscosity": 1000,
@@ -425,7 +426,7 @@
         },
         {
             "name":"propane",
-            "textureName": "tower",
+            "textureName": "propane",
             "temperature": 300,
             "density": 2,
             "viscosity": 1000,
@@ -434,7 +435,7 @@
         },
         {
             "name":"propanemix",
-            "textureName": "tower",
+            "textureName": "steam_mix",
             "temperature": 300,
             "density": 2,
             "viscosity": 1000,
@@ -443,7 +444,7 @@
         },
         {
             "name":"propene",
-            "textureName": "tower",
+            "textureName": "propene",
             "temperature": 300,
             "density": 2,
             "viscosity": 1000,

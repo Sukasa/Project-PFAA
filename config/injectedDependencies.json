@@ -196,6 +196,10 @@
       },
       {
         "type": "before",
+        "target": "asielib"
+      },
+      {
+        "type": "before",
         "target": "bdlib"
       },
       {
@@ -220,6 +224,22 @@
       },
       {
         "type": "before",
+        "target": "tis3d"
+      },
+      {
+        "type": "before",
+        "target": "Mekanism"
+      },
+      {
+        "type": "before",
+        "target": "computronics"
+      },
+      {
+        "type": "before",
+        "target": "cookingwithtfc"
+      },
+      {
+        "type": "before",
         "target": "creativecore"
       },
       {
@@ -237,6 +257,18 @@
       {
         "type": "before",
         "target": "CustomOreGen"
+      },
+      {
+        "type": "before",
+        "target": "PTRModelLib"
+      },
+      {
+        "type": "before",
+        "target": "props"
+      },
+      {
+        "type": "before",
+        "target": "dsurround"
       },
       {
         "type": "before",
@@ -277,6 +309,10 @@
       {
         "type": "before",
         "target": "factorization.truth"
+      },
+      {
+        "type": "before",
+        "target": "foamfix"
       },
       {
         "type": "before",
@@ -336,10 +372,6 @@
       },
       {
         "type": "before",
-        "target": "IGWMod"
-      },
-      {
-        "type": "before",
         "target": "ihl"
       },
       {
@@ -377,10 +409,6 @@
       {
         "type": "before",
         "target": "mo"
-      },
-      {
-        "type": "before",
-        "target": "Mekanism"
       },
       {
         "type": "before",
@@ -456,6 +484,10 @@
       },
       {
         "type": "before",
+        "target": "mod_pndc"
+      },
+      {
+        "type": "before",
         "target": "PneumaticCraft"
       },
       {
@@ -481,14 +513,6 @@
       {
         "type": "before",
         "target": "Shatter"
-      },
-      {
-        "type": "before",
-        "target": "cuchaz.cuchazinteractive"
-      },
-      {
-        "type": "before",
-        "target": "cuchaz.ships"
       },
       {
         "type": "before",
@@ -532,15 +556,19 @@
       },
       {
         "type": "before",
-        "target": "tis3d"
-      },
-      {
-        "type": "before",
         "target": "TooMuchTime"
       },
       {
         "type": "before",
         "target": "Uncomplication"
+      },
+      {
+        "type": "before",
+        "target": "UnicodeFontFixer"
+      },
+      {
+        "type": "before",
+        "target": "universalcoins"
       },
       {
         "type": "before",

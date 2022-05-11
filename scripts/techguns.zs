@@ -8,7 +8,7 @@ recipes.remove(<Techguns:TechgunsAmmo:59>);
 recipes.addShapeless(<Techguns:TechgunsAmmo:102>, [<IC2:itemUran>]);
 
 mods.techguns.ChemLab.removeRecipe(null,<liquid:oil>);
-mods.techguns.ChemLab.removeRecipe(null,<liquid:creeper_acid>);
+//mods.techguns.ChemLab.removeRecipe(null,<liquid:creeper_acid>);
 
 mods.techguns.ChemLab.removeRecipe(<Techguns:TechgunsAmmo:71>,null);
 mods.techguns.ChemLab.removeRecipe(<minecraft:gunpowder>,null);

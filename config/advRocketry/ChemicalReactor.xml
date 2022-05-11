@@ -578,12 +578,22 @@
 		</output>
 	</Recipe>
 	
-		<Recipe timeRequired="200" power="2048">
+	<Recipe timeRequired="200" power="2048">
 		<input>
 			<itemStack>minecraft:cobblestone 1 0</itemStack>
         </input>
 		<output>
 			<fluidStack>lava 1000</fluidStack>
+		</output>
+	</Recipe>
+	
+	<Recipe timeRequired="200" power="2048">
+		<input>
+			<fluidStack>water 1000</fluidStack>
+			<fluidStack>lava 1000</fluidStack>
+        </input>
+		<output>
+			<itemStack>minecraft:obsidian 1 0</itemStack>
 		</output>
 	</Recipe>
 

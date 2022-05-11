@@ -34,7 +34,7 @@ recipes.addShaped(<StorageDrawers:halfCustom2>,
 recipes.remove(<StorageDrawers:halfCustom4>);
 recipes.addShaped(<StorageDrawers:halfCustom4>,
    [[<minecraft:chest>, <ore:stickSteel>, <minecraft:chest>],
-    [<ore:stickSteel>, <ore:itemSaw>, <ore:stickSteel>],
+    [<ore:stickSteel>, <ore:itemSaw>.transformDamage(), <ore:stickSteel>],
     [<minecraft:chest>, <ore:stickSteel>, <minecraft:chest>]]);
 
 recipes.remove(<StorageDrawers:trim:*>);
