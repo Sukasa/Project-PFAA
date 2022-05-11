@@ -1,21 +1,21 @@
 //------ IC2 GENERATOR ARMOR ------
 recipes.remove(<IC2:itemSolarHelmet>);
 recipes.addShaped(<IC2:itemSolarHelmet>, 
-  [[<minecraft:air>, <IC2:blockGenerator:3>, <minecraft:air>], 
+  [[null, <IC2:blockGenerator:3>, null], 
   [<ore:stickSteel>, <terrafirmacraft:item.Wrought Iron Helmet>, <ore:stickSteel>],
   [<IC2:itemCable>, <IC2:itemCable>, <IC2:itemCable>]]);
   
 recipes.remove(<IC2:itemStaticBoots>);
 recipes.addShaped(<IC2:itemStaticBoots>,
-  [[<minecraft:air>, <terrafirmacraft:item.Wrought Iron Boots>, <minecraft:air>], 
+  [[null, <terrafirmacraft:item.Wrought Iron Boots>, null], 
   [<ore:blockWool>, <IC2:itemArmorRubBoots>, <ore:blockWool>],
   [<IC2:itemCable>, <IC2:itemCable>, <IC2:itemCable>]]);
 
 //you should not be forced to use white wool in your boots
 recipes.remove(<IC2:itemArmorRubBoots>);
 recipes.addShaped(<IC2:itemArmorRubBoots>,
-  [[<ore:itemRubber>, <minecraft:air>, <ore:itemRubber>], 
-  [<ore:itemRubber>, <minecraft:air>, <ore:itemRubber>],
+  [[<ore:itemRubber>, null, <ore:itemRubber>], 
+  [<ore:itemRubber>, null, <ore:itemRubber>],
   [<ore:itemRubber>, <ore:blockWool>, <ore:itemRubber>]]);
 
  

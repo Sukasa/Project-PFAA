@@ -85,4 +85,12 @@
 			<itemStack>advancedRocketry:advancedRocketryproductrod 2 1</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="150" power ="128">
+		<input>
+			<oreDict>ingotAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>ImmersiveEngineering:material 2 16</itemStack>
+		</output>
+	</Recipe>
 </Recipes>
