@@ -173,6 +173,14 @@
 			<itemStack>libVulpes:libVulpesproductsheet 1 7</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="50" power ="256">
+		<input>
+			<oreDict>ingotAluminum 1</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductplate 1 9</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="100" power ="256">
 		<input>
 			<oreDict>plateAluminum 1</oreDict>
