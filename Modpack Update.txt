@@ -29,6 +29,7 @@ CHANGES:
 * FoamFix 1.7.10 has been added, with Log4J exploit mitigations
 * Colourized some petrochem products to ease identification
 * TechGuns' volumes adjusted to be in line with other game audio
+* IndustrialCraft 2 Steam Generator tweaked to more reliably produce Superheated Steam in automated use
 
 KNOWN ISSUES:
 
