@@ -9,7 +9,7 @@ CHANGES:
 * Some lime paints can now be produced in the IHL chemical reactor
 * TechGuns will no longer mess with the FOV when sprinting
 * Some dense plates can now be automated
-* Creeper Acid re-added
+* Creeper Acid returned to the game
 * Obsidian can be made in the AR Chemical Reactor
 * Electric trains de-nerfed
 * 2x2 Half Framed Drawers will now consume saw durability and not the saw
